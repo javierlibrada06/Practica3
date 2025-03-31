@@ -20,3 +20,9 @@ C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\HolaMundoC
 C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\HolaMundoCS\obj\Debug\net5.0\HolaMundo.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\HolaMundoCS\obj\Debug\net5.0\HolaMundo.dll
 C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\HolaMundoCS\obj\Debug\net5.0\HolaMundo.pdb
+C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\MAPGrupo10\obj\Debug\net5.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\MAPGrupo10\obj\Debug\net5.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\MAPGrupo10\obj\Debug\net5.0\HolaMundo.AssemblyInfo.cs
+C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\MAPGrupo10\obj\Debug\net5.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\MAPGrupo10\obj\Debug\net5.0\HolaMundo.dll
+C:\Users\User\Desktop\UCM\PracticaMAP\ProyectoEjemplo\ProyectoEjemplo\MAPGrupo10\obj\Debug\net5.0\HolaMundo.pdb
